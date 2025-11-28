@@ -1,6 +1,6 @@
 {
 	"name": "n8n-nodes-flowengine-chat-model",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"description": "n8n community node for FlowEngine Chat Model - Access 100+ AI models",
 	"license": "MIT",
 	"homepage": "https://flowengine.cloud",

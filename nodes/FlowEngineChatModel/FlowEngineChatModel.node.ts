@@ -45,7 +45,7 @@ export class FlowEngineChatModel implements INodeType {
 		properties: [
 			{
 				displayName:
-					'Get your API key from <a href="https://flowengine.cloud/settings" target="_blank">flowengine.cloud/settings</a>',
+					'For API key, go to <a href="https://flowengine.cloud/settings" target="_blank">flowengine.cloud/settings</a>',
 				name: 'notice',
 				type: 'notice',
 				default: '',

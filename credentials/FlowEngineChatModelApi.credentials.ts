@@ -22,8 +22,7 @@ export class FlowEngineChatModelApi implements ICredentialType {
 			typeOptions: { password: true },
 			default: '',
 			required: true,
-			description:
-				'Your FlowEngine API key. Get it from Settings at flowengine.cloud/settings',
+			description: 'For API key, go to flowengine.cloud/settings',
 		},
 	];
 
